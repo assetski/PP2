@@ -27,12 +27,12 @@ namespace lab1_1
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());  // Ввод количества элементов массива
-            int[] ar = new int[n];
+            int[] ar = new int[n]; // создание массива
             string s = Console.ReadLine(); // Ввод элементов массива
             string[] ss = s.Split(' ');  // разделяем каждое число на отдельные элементы массива
             for (int i = 0; i < ss.Length; i++)  // Конвертируем string-овые числа в integer
             {
-                ar[i] = int.Parse(ss[i]);
+                ar[i] = int.Parse(ss[i]); // int.Parse converts user's input value which is string in to integer
             }
             List<int> b = new List<int>();
             // обьявляем интовый массив
