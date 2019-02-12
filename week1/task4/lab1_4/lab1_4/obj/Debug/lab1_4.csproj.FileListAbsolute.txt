@@ -1,0 +1,7 @@
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task4\lab1_4\lab1_4\bin\Debug\lab1_4.exe.config
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task4\lab1_4\lab1_4\bin\Debug\lab1_4.exe
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task4\lab1_4\lab1_4\bin\Debug\lab1_4.pdb
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task4\lab1_4\lab1_4\obj\Debug\lab1_4.csprojAssemblyReference.cache
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task4\lab1_4\lab1_4\obj\Debug\lab1_4.csproj.CoreCompileInputs.cache
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task4\lab1_4\lab1_4\obj\Debug\lab1_4.exe
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task4\lab1_4\lab1_4\obj\Debug\lab1_4.pdb
