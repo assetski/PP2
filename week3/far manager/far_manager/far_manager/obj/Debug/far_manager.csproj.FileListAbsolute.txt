@@ -1,0 +1,7 @@
+C:\Users\Akimgereyev\Desktop\pp2draft\week3\far manager\far_manager\far_manager\obj\Debug\far_manager.csprojAssemblyReference.cache
+C:\Users\Akimgereyev\Desktop\pp2draft\week3\far manager\far_manager\far_manager\obj\Debug\far_manager.csproj.CoreCompileInputs.cache
+C:\Users\Akimgereyev\Desktop\pp2draft\week3\far manager\far_manager\far_manager\bin\Debug\far_manager.exe.config
+C:\Users\Akimgereyev\Desktop\pp2draft\week3\far manager\far_manager\far_manager\bin\Debug\far_manager.exe
+C:\Users\Akimgereyev\Desktop\pp2draft\week3\far manager\far_manager\far_manager\bin\Debug\far_manager.pdb
+C:\Users\Akimgereyev\Desktop\pp2draft\week3\far manager\far_manager\far_manager\obj\Debug\far_manager.exe
+C:\Users\Akimgereyev\Desktop\pp2draft\week3\far manager\far_manager\far_manager\obj\Debug\far_manager.pdb
