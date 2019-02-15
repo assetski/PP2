@@ -1,0 +1,7 @@
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task 2\lab12\lab12\obj\Debug\lab12.csprojAssemblyReference.cache
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task 2\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task 2\lab12\lab12\bin\Debug\lab12.exe.config
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task 2\lab12\lab12\bin\Debug\lab12.exe
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task 2\lab12\lab12\bin\Debug\lab12.pdb
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task 2\lab12\lab12\obj\Debug\lab12.exe
+C:\Users\Akimgereyev\Desktop\pp2draft\week1\task 2\lab12\lab12\obj\Debug\lab12.pdb
