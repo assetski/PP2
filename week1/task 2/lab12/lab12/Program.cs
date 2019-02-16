@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace lab12
-{
-    class Student // создание класса
+class Student // создание класса
     {
         public string name; // public доступен из любого места программы
         public string id;
-        public int yearofstudy=1;
+        public int yearofstudy;
         public Student(string n, string i)// создание метода, метод - это именованный блок кода, который выполняет некоторые действия
         {
             name = n;
@@ -20,7 +13,7 @@ namespace lab12
         {
             Console.WriteLine(name + " " + id + " ");
         }
-        public void second()
+        public void second(int yearofstudy)
         {
 
             yearofstudy++;
@@ -34,13 +27,14 @@ namespace lab12
             Student s = new Student("Akimgereyev", "18BD110359");// использование метода
             int yearofstudy = int.Parse(Console.ReadLine());
             s.first();
-            s.second();
+            s.second(yearofstudy);
             
           
             Console.ReadKey();
         }
     }
-}
+
+
 
 
 
