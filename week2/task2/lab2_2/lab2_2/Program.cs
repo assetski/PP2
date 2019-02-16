@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
-
 namespace lab2_2
 {
     class Program
@@ -25,7 +20,6 @@ namespace lab2_2
             }
             return t;
         }
-
         static void Main(string[] args)
         {
             string path = @"C:\Users\Akimgereyev\Desktop\allnumbers.txt";// путь первого документа

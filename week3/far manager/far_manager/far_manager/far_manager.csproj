@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E67C159F-2AE3-4743-8E01-930B4CFB4421}</ProjectGuid>
+    <ProjectGuid>{A875516F-3D09-459C-829E-3B96466768F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>far_manager</RootNamespace>
     <AssemblyName>far_manager</AssemblyName>

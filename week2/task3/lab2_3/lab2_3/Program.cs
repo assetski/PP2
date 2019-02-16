@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
-
 namespace lab2_3
 {
     class Program
@@ -21,11 +16,10 @@ namespace lab2_3
         }
         static void info(DirectoryInfo dir, int a) // рекурсия для открытия папок и файлов в виде дерева
         {
-            FileInfo[] files = dir.GetFiles();
-            DirectoryInfo[] dires = dir.GetDirectories();
-            foreach (FileInfo file in files) // вывод названия файлов с определенным расстоянием
+            FileInfo[] files = dir.GetFiles();// FileInfo-для создания, копирования, перемещения и удаления файлов
+            DirectoryInfo[] dires = dir.GetDirectories(); //DirectoryInfo используется для создания, перемещения, удаления и перечисления каталогов и подкаталогов
+            foreach (FileInfo file in files) // GetDirectories-возвращает массив объектов DirectoryInfo, представляющих все подкаталоги в текущем каталоге
             {
-
                 Console.Write(Space(a));
                 Console.WriteLine(file.Name);
             }

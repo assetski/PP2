@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace lab1_4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string s = "[*]";
+            string s = "[*]"; // обьявление перемененной
             int a = int.Parse(Console.ReadLine());  //  Ввод размера
             for (int i = 1; i <= a; i++)  //      используем цикл в цикле
             {                               
